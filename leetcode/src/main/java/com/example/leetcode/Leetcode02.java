@@ -1,6 +1,6 @@
 package com.example.leetcode;
 
-public class AddTwoNumbers02 {
+public class Leetcode02 {
 
     public ListNode addTwoNumbers(ListNode l1, ListNode l2) {
         ListNode head = null, tail = null;
